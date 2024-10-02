@@ -1,0 +1,22 @@
+.quadrado{
+    display: flex;
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /*não sei centralizar essa porra*/
+}
+.quadrado:hover{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+.quadrado:active{
+    color: black;
+    background-color: green;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+h1,h2,h3,h4,h5,h6,p{
+    color: orange;
+}
+h2.text_background{
+    background-color: lightgreen;
+}
+#text_color{
+    background-color: lightblue;
+    color: red;
+}
+*{
+    margin:0;
+    padding: 1px;
+}
